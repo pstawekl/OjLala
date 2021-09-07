@@ -33,7 +33,7 @@ h5 {
   font-weight: 700; }
 
 .btn {
-  background-color: #e84545;
+  background-color: #ff77cb;
   color: #fff;
   font-size: 13px;
   font-weight: 600;
@@ -44,7 +44,7 @@ h5 {
   display: inline-block;
   text-transform: uppercase; }
   .btn:hover, .btn:focus {
-    background-color: #e52e2e;
+    background-color: #ff77cb;
     color: #fff; }
   .btn-large {
     padding: 15px 40px; }
@@ -167,7 +167,7 @@ ul li {
     -webkit-transition-property: -webkit-transform;
     transition-property: transform; }
   .nav-toggle:before {
-    background-color: #e84545;
+    background-color: #ff77cb;
     -moz-transform: scale(1);
     -ms-transform: scale(1);
     -webkit-transform: scale(1);
@@ -177,7 +177,7 @@ ul li {
     -webkit-transition-duration: 0.3s;
     transition-duration: 0.3s; }
   .nav-toggle:after {
-    background-color: #e84545;
+    background-color: #ff77cb;
     -moz-transform: scale(0);
     -ms-transform: scale(0);
     -webkit-transform: scale(0);
