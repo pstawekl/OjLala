@@ -371,7 +371,7 @@ ul li {
   .person h4 {
     font-weight: 400; }
   .person h5 {
-    color: #e84545;
+    color: #c55c9d;
     font-size: 13px;
     font-weight: 400;
     margin-bottom: 20px; }
@@ -394,8 +394,8 @@ ul li {
     text-align: center;
     width: 40px; }
     .social-icons a:hover, .footer .footer-share a:hover {
-      background-color: #e84545;
-      border-color: #e84545;
+      background-color: #c55c9d;
+      border-color: #c55c9d;
       color: #fff; }
 
 /* ==========================================================================
@@ -454,7 +454,7 @@ ul li {
   .footer a {
     color: #fff; }
     .footer a:hover {
-      color: #e84545; }
+      color: #c55c9d; }
   .footer .footer-share {
     margin-top: 0; }
     .footer .footer-share li {
@@ -464,7 +464,7 @@ ul li {
       border-width: 2px;
       color: #fff; }
   .footer .fa-heart {
-    color: #e84545;
+    color: #c55c9d;
     font-size: 11px;
     margin: 0 2px; }
 
