@@ -259,7 +259,7 @@ ul li {
 	$Banner
 ========================================================================== */
 .banner {
-  background-image: url(../images/banner-1.jpg);
+  background-image: url(../images/banner-2.jpg);
   background-position: center top;
   background-repeat: no-repeat;
   -moz-background-size: cover;
@@ -291,7 +291,7 @@ ul li {
     padding: 0 15px;
     margin-top: 30px; }
   .feature .icon {
-    color: #e84545;
+    color: #c55c9d;
     font-size: 60px; }
 
 /* ==========================================================================
@@ -306,7 +306,7 @@ ul li {
   position: relative;
   visibility: hidden; }
   .work .overlay {
-    background: rgba(232, 69, 69, 0.9);
+    background: rgba(199, 84, 164, 0.9);
     height: 100%;
     left: 0;
     opacity: 0;
