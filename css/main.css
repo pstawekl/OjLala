@@ -120,6 +120,8 @@ ul li {
   transition: opacity 0.5s; }
 
 .navigation {
+  outline: none;
+  text-decoration: none;
   float: right; }
   .navigation li {
     display: inline-block; }

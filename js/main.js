@@ -10,6 +10,12 @@ $(document).ready(function() {
 		}
 	});
 
+	$("#btnZarezerwuj").click(function() {
+		$('html, body').animate({
+			scrollTop: $("#zarezerwuj").offset().top
+		}, 700);
+	});
+
 	// Waypoints
 	$('.work').waypoint(function() {
 		$('.work').addClass('animated fadeIn');
@@ -34,7 +40,6 @@ $(document).ready(function() {
 	// Page Scroll
 	var sections = $('section')
 		nav = $('nav[role="navigation"]');
-
 	$(window).on('scroll', function () {
 	  	var cur_pos = $(this).scrollTop();
 	  	sections.each(function() {
@@ -55,7 +60,7 @@ $(document).ready(function() {
 	  return false;
 	});
 
-	// Mobile Navigation
+	// Mobile `Nav`igation
 	$('.nav-toggle').on('click', function() {
 		$(this).toggleClass('close-nav');
 		nav.toggleClass('open');
